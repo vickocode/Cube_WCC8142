@@ -1,4 +1,4 @@
-const input_number = 5;
+const input_number = 6;
 
 function printCube(input_number) {
   for (let i = 1; i <= input_number; i++) {
